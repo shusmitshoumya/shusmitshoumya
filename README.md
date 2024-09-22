@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shoumya
+- 🌱 I’m currently learning Structured Programming and Web Development
+- 📫 How to reach me shoumya23@gmail.com
